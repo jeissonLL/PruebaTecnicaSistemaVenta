@@ -1,0 +1,84 @@
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll

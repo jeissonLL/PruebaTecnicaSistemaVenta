@@ -1,0 +1,110 @@
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CopyComplete
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CopyComplete
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\091_Curso de Sistema Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.runtimeconfig.json
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaV.10E87F00.Up2Date
+C:\PruebaTecnica\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.genruntimeconfig.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.runtimeconfig.json
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaV.10E87F00.Up2Date
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.genruntimeconfig.cache
+C:\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.runtimeconfig.json
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaV.10E87F00.Up2Date
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.genruntimeconfig.cache
+C:\repositories\SistemaInvenario\SistemaInventarioProduccion\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.runtimeconfig.json
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaV.10E87F00.Up2Date
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.genruntimeconfig.cache
+C:\repositories\SistemaInvenario\SistemaInventario\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
