@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes paquetes en tu 
 - [Microsoft.VisualStudio.Azure.Containers.Tools] (v7.0.1)
 - [AutoMapper] (v12.0.0)
 
-# Proyecto de Front-end - HotelReservation
+# Proyecto de Front-end - SistemaInventarios
 
 Este proyecto está construido utilizando Angular v14.2.4 y angular material v14.2.7, un framework moderno y eficiente para aplicaciones web. Proporciona una base sólida para desarrollar interfaces de usuario rápidas y reactivas.
 
