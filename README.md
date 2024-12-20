@@ -1,6 +1,6 @@
 # Proyecto de Backend - SistemaInventarios
 
-Este proyecto es una API RESTful para Gestionar un sistema de inventaris. El backend está construido con .Net 7.0 y utiliza una base de datos Sql Server.
+Este proyecto es una API RESTful para Gestionar un sistema de inventarios. El backend está construido con .Net 7.0 y utiliza una base de datos Sql Server, esta construido bajo  arquitectura de capas.
 
 # Base de datos
 El Nombre de la base de datos es DBVENTA
